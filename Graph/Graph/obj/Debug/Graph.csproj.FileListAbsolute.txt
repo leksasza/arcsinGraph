@@ -1,0 +1,15 @@
+C:\Users\Саша\source\repos\Graph\Graph\bin\Debug\Graph.exe.config
+C:\Users\Саша\source\repos\Graph\Graph\bin\Debug\Graph.exe
+C:\Users\Саша\source\repos\Graph\Graph\bin\Debug\Graph.pdb
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.csproj.SuggestedBindingRedirects.cache
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.Form1.resources
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.Properties.Resources.resources
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.csproj.GenerateResource.cache
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.exe
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.pdb
+C:\Users\Саша\source\repos\Graph\Graph\bin\Debug\ZedGraph.dll
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.Form2.resources
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.csproj.CopyComplete
+C:\Users\Саша\source\repos\Graph\Graph\obj\Debug\Graph.Form3.resources
